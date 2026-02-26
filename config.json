@@ -1,0 +1,68 @@
+{
+  "beautify": {
+    "enabled": true,
+    "level": "medium",
+    "skin_smoothing": true,
+    "brightness_auto": false,
+    "hair_smoothing": true,
+    "eye_enhancement": false,
+    "teeth_whitening": false
+  },
+  "background": {
+    "enabled": true,
+    "mode": "solid_color",
+    "color": "#FFFFFF",
+    "edge_refinement": true,
+    "refine_level": "high"
+  },
+  "ai_enhance": {
+    "enabled": false,
+    "level": "medium",
+    "enhance_sharpness": true,
+    "enhance_colors": false,
+    "denoise": true,
+    "super_resolution": false,
+    "scale": 2,
+    "auto_exposure": true
+  },
+  "resize": {
+    "enabled": false,
+    "preset": "3x4",
+    "width_px": 354,
+    "height_px": 472,
+    "dpi": 300,
+    "maintain_aspect": true,
+    "auto_subject_fit": false,
+    "distance_level": "far"
+  },
+  "output": {
+    "format": "png",
+    "quality": 95,
+    "naming": "{name}",
+    "overwrite": true
+  },
+  "processing": {
+    "parallel_workers": 4,
+    "skip_on_error": true,
+    "log_errors": true
+  },
+  "auto_watch": {
+    "enabled": true,
+    "folder": "C:/Users/CNTT/Desktop/DemoTool/New"
+  },
+  "settings": {
+    "language": "VI"
+  },
+  "import": {
+    "width": 400,
+    "height": 500,
+    "auto_calculate": false,
+    "capture_folder": "C:/Users/CNTT/Desktop/DemoTool/New",
+    "original_folder": "C:/Users/CNTT/Desktop/DemoTool/original",
+    "resized_folder": "C:/Users/CNTT/Desktop/DemoTool/small"
+  },
+  "base_folder": {
+    "input_folder": "C:/Users/CNTT/Desktop/DemoTool/New",
+    "output_folder": "C:/Users/CNTT/Desktop/DemoTool/Final"
+  }
+}

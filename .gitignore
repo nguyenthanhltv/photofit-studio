@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+env/
+ENV/
+
+# Cache folders
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.hypothesis/
+
+# PhotoFit Studio
+capture/
+original/
+small/
+processed/
+final/
+logs/*.log
+*.log
+
+# Config
+config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Models (optional - can be large)
+# models/
+
+# Temporary files
+*.tmp
+*.temp

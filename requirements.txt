@@ -1,0 +1,10 @@
+opencv-python>=4.8.0
+Pillow>=10.0.0
+mediapipe>=0.10.0
+rembg[cpu]>=2.0.50
+customtkinter>=5.2.0
+numpy>=1.24.0
+
+# Optional dependencies for new features
+watchdog>=3.0.0  # For Auto-Run Mode (file watcher)
+qrcode[pil]>=7.0  # For QR Code Generation

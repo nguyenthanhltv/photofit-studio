@@ -1,0 +1,23 @@
+{
+  "total_processed": 5,
+  "total_success": 5,
+  "total_errors": 0,
+  "total_time_seconds": 0.0,
+  "sessions": [],
+  "daily_stats": {
+    "2026-02-26": {
+      "processed": 1,
+      "success": 1,
+      "errors": 0,
+      "time_seconds": 0.0
+    },
+    "2026-02-27": {
+      "processed": 4,
+      "success": 4,
+      "errors": 0,
+      "time_seconds": 0.0
+    }
+  },
+  "template_usage": {},
+  "last_updated": "2026-02-27T23:51:52.535434"
+}
